@@ -1,0 +1,43 @@
+*{
+    padding:0;
+    margin:0;
+
+}
+
+body{
+    background-color: #a8dadc;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+#lista{
+    display:flex;
+    position:absolute;
+    left: 300px;
+    top: 300px;
+}
+
+
+
+.elemento{
+    background-color: #fbf8cc;
+    height: 25px;
+    width: 30px;
+    padding: 10px;
+    border: 1px solid black;
+}
+
+#motociclistas{
+    color: #2d6a4f;
+}
+
+#instruction{
+    position: absolute;
+    top:600px;
+    left: 400px;
+    height: 210px;
+    width: 800px;
+    border: 3px dashed black;
+    font-size: 20px;
+
+}
